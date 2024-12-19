@@ -26,12 +26,13 @@ function App() {
       link: "https://alnaji.dev/HanggedMan-Game/",
     },
     { id: 3, text: "PrayerTime", link: "https://alnaji.dev/PrayerTimes/" },
+    { id: 4, text: "Task Priority", link: "https://alnaji.dev/TaskPriority/" },
   ];
-  const projectList = projects.map((project)=> {
-      return(
-        <Projects text={project.text} link={project.link} key={project.id} />
-      )
-  })
+  const projectList = projects.map((project) => {
+    return (
+      <Projects text={project.text} link={project.link} key={project.id} />
+    );
+  });
   return (
     <div>
       {/* Header is here*/}
@@ -113,11 +114,11 @@ function App() {
       </div>
       {/*Skills Body Section*/}
       <div id="Skills" className="flex flex-wrap justify-center">
-          <Skills/>
+        <Skills />
       </div>
       {/*Contact Section*/}
       <div id="Contact">
-        <Contacts/>
+        <Contacts />
       </div>
     </div>
   );
