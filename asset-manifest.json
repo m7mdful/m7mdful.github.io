@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/m7mdful.github.io/static/css/main.8133e534.css",
+    "main.js": "/m7mdful.github.io/static/js/main.1818f4a9.js",
+    "static/js/453.64512fd7.chunk.js": "/m7mdful.github.io/static/js/453.64512fd7.chunk.js",
+    "index.html": "/m7mdful.github.io/index.html",
+    "main.8133e534.css.map": "/m7mdful.github.io/static/css/main.8133e534.css.map",
+    "main.1818f4a9.js.map": "/m7mdful.github.io/static/js/main.1818f4a9.js.map",
+    "453.64512fd7.chunk.js.map": "/m7mdful.github.io/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8133e534.css",
+    "static/js/main.1818f4a9.js"
+  ]
+}
